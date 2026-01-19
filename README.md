@@ -1,2 +1,3 @@
-# ecml2025unequal
-Repo for the ECML 2025 unequal length time series submission
+# icbda2026unequal
+
+Repo for the ICBDA 2026 unequal length time series submission
