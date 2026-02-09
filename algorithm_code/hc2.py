@@ -293,7 +293,7 @@ class HIVECOTEV2(BaseClassifier):
         y : array-like, shape = [n_cases, n_classes_]
             Predicted probabilities using the ordering in classes_.
         """
-        dists = np.zeros((X.shape[0], self.n_classes_))
+        dists = np.zeros((len(X), self.n_classes_))
 
         # Call predict proba on each classifier, multiply the probabilities by the
         # classifiers weight then add them to the current HC2 probabilities
