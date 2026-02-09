@@ -11,4 +11,4 @@ Results:
     `.csv` files are provided which give the accuracy  and other scores on the mixed unequal archive.
 
 Code:
-    Python code for HC2 and its components are provided in the `algorithm_code` folder. An example run is shown in `basics.ipynb`.
+    Python code for HC2 and its components are provided in the `algorithm_code` folder. Based on open-source code from the `aeon` toolkit. An example run is shown in `basics.ipynb`.
